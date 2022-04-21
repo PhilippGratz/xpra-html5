@@ -5,7 +5,7 @@ html, body {
 	margin: 0;
 	overflow: hidden;
 	background-color: #021d3a;
-	background-image: url(../background.png);
+	/* CHANGED: background-image: url(../background.png);*/
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
